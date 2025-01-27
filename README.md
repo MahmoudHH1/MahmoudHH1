@@ -4,7 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-hebishy)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://www.leetcode.com/mhh1)
 
-> *"Strive not to be a success, but rather to be of value." – Albert Einstein*
 
 ## 💫 About Me
 
