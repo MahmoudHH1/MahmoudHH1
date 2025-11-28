@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-I'm a passionate **Junior Computer Science Engineering Student** at the German University in Cairo (GUC), dedicated to turning innovative ideas into reality through code. My journey in tech is driven by curiosity and a desire to make a meaningful impact.
+I'm a passionate **Senior Computer Science Engineering Student** at the German University in Cairo (GUC), dedicated to turning innovative ideas into reality through code. My journey in tech is driven by curiosity and a desire to make a meaningful impact.
 
 ### What I'm Up To
 
